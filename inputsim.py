@@ -1,6 +1,6 @@
 import getpass
 import time
-
+# este es otro comentarios
 print("=== SIMULADOR DE CONEXIÓN CISCO IOS ===")
 
 # 1. Solicitar los inputs al administrador (Funciona igual que en producción)
